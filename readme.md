@@ -2,7 +2,6 @@
 
 This project built with framework Codeigniter 3 and MySql
 
-
 Login with admin role:
 
 
